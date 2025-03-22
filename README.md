@@ -20,4 +20,11 @@ simulation (Using Star Topology)
 
 8. To simulate and study sliding window protocol 3 
 
-9. To Simulate and study of Go Back N Protocol 
+9. To Simulate and study of Go Back N Protocol
+    
+10. Implement simple ESS and with transmitting nodes in wire-less LAN by simulation and 
+determine the performance with respect to transmission of packets.
+
+  11.Implement and study the performance of GSM on NS2 
+
+  12.Implement and study the performance of CDMA on NS2
